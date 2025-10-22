@@ -36,27 +36,32 @@ Sequence Diagram
 
 ## USE CASE DIAGRAM:
 
-<img width="866" height="800" alt="image" src="https://github.com/user-attachments/assets/f9587d8f-4dd3-495f-8070-96d372b47733" />
+<img width="821" height="615" alt="image" src="https://github.com/user-attachments/assets/910bc926-88f0-4254-b7ce-f4d8c238a2a6" />
+
 
 ## CLASS DIAGRAM:
 
-<img width="985" height="633" alt="image" src="https://github.com/user-attachments/assets/988bac5f-56e5-4b78-b69f-3300da202676" />
+<img width="808" height="599" alt="image" src="https://github.com/user-attachments/assets/0939ec03-e8d0-4c48-a0c7-243c88c014fc" />
+
 
 ## ACTIVITY DIAGRAM:
 
-<img width="511" height="762" alt="image" src="https://github.com/user-attachments/assets/4a8dc0c9-e416-4e1f-8f46-0c50409a9d63" />
+<img width="812" height="603" alt="image" src="https://github.com/user-attachments/assets/b962f2f8-e56e-485f-85e6-a70e42fb14bb" />
+
 
 ## PACKAGE DIAGRAM:
 
-<img width="892" height="501" alt="image" src="https://github.com/user-attachments/assets/88372a2c-6c72-48ec-89de-1b9e7a89b428" />
+<img width="800" height="602" alt="image" src="https://github.com/user-attachments/assets/746d7319-23c4-4608-88e9-08481937b63e" />
+
 
 ## COMMUNICATION DIAGRAM:
 
-<img width="622" height="447" alt="image" src="https://github.com/user-attachments/assets/58413981-5cbf-450c-922b-f9cc553bbce1" />
+<img width="799" height="596" alt="image" src="https://github.com/user-attachments/assets/c04aefd6-9d6e-4a14-9bba-b799603e17e2" />
 
 ## SEQUENCE DIAGRAM:
 
-<img width="668" height="697" alt="image" src="https://github.com/user-attachments/assets/ea5b350b-b960-473c-9514-ac0dd047f697" />
+<img width="802" height="602" alt="image" src="https://github.com/user-attachments/assets/4b6d818e-1273-473c-b7d4-d299d10c642c" />
+
 
 
 # RESULT:
